@@ -1,0 +1,6 @@
+post for db service
+
+{
+	"userName":"sam",
+	"quotes":["APPLE"]
+}
